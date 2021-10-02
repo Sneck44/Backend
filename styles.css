@@ -128,6 +128,8 @@ html
     border: solid black;
     border-radius: 2rem;
     padding: .5rem;
+    background: black;
+    color: white;
 }
 .fa-user:before
 {
@@ -349,7 +351,7 @@ html
 .news__description
 {
     background-color: rgba(0,0,0,.5);
-    height: 174px;
+    height: 183px;
     position: absolute;
     top: 117px;
     color: white;
@@ -359,7 +361,7 @@ html
 .news__description2
 {
     background-color: rgba(0,0,0,.5);
-    height: 197px;
+    height: 206px;
     position: absolute;
     top: 94px;
     color: white;
